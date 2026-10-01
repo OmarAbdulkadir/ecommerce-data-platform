@@ -10,12 +10,13 @@ designed with normalized schema and real business analytics queries.
 
 ## Tech Stack
 
-- PostgreSQL
-- SQL
-- Python (coming soon)
-- Docker (coming soon)
-- Airflow (coming soon)
-- dbt (coming soon)
+- **PostgreSQL** — relational database with normalized schema
+- **SQL** — business analytics queries
+- **Python** — programmatic data access and analytics (psycopg2, pandas)
+- **Docker** — containerized PostgreSQL environment
+- **dbt** — coming in Phase 3
+- **Apache Airflow** — coming in Phase 4
+- **AWS** — coming in Phase 5
 
 ## Database Schema
 
